@@ -1,0 +1,56 @@
+#login{
+    display: flex;
+    align-items: center;
+    height: 650px;
+}
+
+#login h2{
+    text-align: center;
+}
+
+#login .register p{
+    font-size: 18px;
+}
+#login .register a{
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(220, 129, 50);
+}
+
+#header{
+    background: blue;
+    padding: 20px 0px;
+}
+#header h2{
+    color: white;
+}
+#header button{
+    float: right;
+    /* margin-top: 5px; */
+}
+#product{
+    display: flex;
+}
+#productstr img{
+    width: 100px;
+}
+
+#footer{
+    background: blue;
+    margin-top: 50px;
+    padding: 20px 0px;
+}
+#footer h2{
+    color: white;
+    text-align: center;
+}
+
+#dashboard .table td img{
+    width: 45px;
+}
+#dashboard .table a{
+    text-decoration: none;
+}
+main{
+min-height: 70vh;
+}
